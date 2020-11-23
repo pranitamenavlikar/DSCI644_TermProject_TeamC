@@ -4,4 +4,4 @@ Studying and improving the existing neural network model for Amazon review class
 
 
 ### ARCHITECTURE DESIGN
-![alt text](https://github.com/pranitamenavlikar/DSCI644_TermProject_TeamC/blob/main/TeamC_Webpage/content/Architecture%20Diagram.png)
+![alt text](https://github.com/pranitamenavlikar/DSCI644_TermProject_TeamC/blob/main/TeamC_Webpage/content/ArchitectureDiagram.png)
